@@ -1,1 +1,1 @@
-app-ads.txtgoogle.com, pub-8063056128042054, DIRECT, f08c47fec0942fa0
+Official website for the Daily Tech Android app, hosting the app-ads.txt file required for Google AdMob verification.
